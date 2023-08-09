@@ -10,7 +10,14 @@ npm install
 npm run start
 
 ```
-## Créditos
-[Carlos](
+
+##Juego
+```
+https://endearing-cactus-7d1a03.netlify.app/
+    
+    ``` 
+
+ 🐭 & 🐱
+
 ## Licencia
 [MIT](https://opensource.org/licenses/MIT)
